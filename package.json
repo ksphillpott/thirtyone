@@ -1,0 +1,12 @@
+{
+  "name": "thirty-one",
+  "version": "1.0.0",
+  "description": "THIRTY-ONE - A Roguelike Card Game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
